@@ -52,7 +52,7 @@ _✨ 通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 �
 </p>
 
 > [!WARNING]
-> 该分支不再维护，项目地址：https://github.com/Calcium-Ion/new-api
+> 该分支不再维护，新项目地址：https://github.com/Calcium-Ion/new-api
 
 > [!NOTE]
 > 本项目为开源项目，使用者必须在遵循 OpenAI 的[使用条款](https://openai.com/policies/terms-of-use)以及**法律法规**的情况下使用，不得用于非法用途。
@@ -64,7 +64,7 @@ _✨ 通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 �
 
 ## 此分叉版本的主要变更
 > [!WARNING]
-> 该分支不再维护，项目地址：https://github.com/Calcium-Ion/new-api
+> 该分支不再维护，新项目地址：https://github.com/Calcium-Ion/new-api
 
 1. 添加[Midjourney-Proxy](https://github.com/novicezk/midjourney-proxy)接口的支持：
     + [x] /mj/submit/imagine
