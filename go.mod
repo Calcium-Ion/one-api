@@ -5,6 +5,7 @@ go 1.20
 
 require (
 	cloud.google.com/go/iam v1.1.10
+	github.com/andybalholm/brotli v1.1.1
 	github.com/aws/aws-sdk-go-v2 v1.27.0
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.15
 	github.com/aws/aws-sdk-go-v2/service/bedrockruntime v1.8.3
